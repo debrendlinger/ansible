@@ -1,0 +1,5 @@
+p1_l1_cx1_hostmycx1  ansible_host=192.168.5.51
+p1_l1_dbs_hostmydbs  ansible_host=192.168.5.52
+p1_l1_mq1_hostmymq1  ansible_host=192.168.5.54
+p1_l1_mq2_hostmymq2  ansible_host=192.168.5.55
+p1_l1_mai_hostmymai  ansible_host=192.168.5.56
